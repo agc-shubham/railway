@@ -43,7 +43,8 @@ include("header.php"); ?>
 <IMG SRC="img/logo.png" alt="Home" id="logo" width="150" height="150"></IMG>
 </A></div>
 <h1 align="center">Welcome to Indian Railways!</h1><br/><br/><br/>
-<h2 align="center">Have a safe journey with us</h2>
+<h2 align="center">Have a safe journey with us</h2><br>
+<h3 align="center">Made By Shubham,Annasha Ghosh, Suheeta Samanta</h3>
 <br/><br/><br/>
 <?php
 if(isset($_SESSION['user_info']))
